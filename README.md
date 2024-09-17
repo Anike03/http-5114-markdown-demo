@@ -7,15 +7,15 @@ the text is **_bold and italics_**
 
 This is an ordered list:
 
-1.item number one
-2.item number two
-3.item number three
+1. item number one
+2. item number two
+3. item number three
 
 This is an unordered list:
 
--Item number one
--Item number two
-_Item number three
+- Item number one
+- Item number two
+- Item number three
 
 ## Links
 
