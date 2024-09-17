@@ -13,6 +13,10 @@ This is an ordered list:
 
 This is an unordered list:
 
+-Item number one
+-Item number two
+_Item number three
+
 ## Links
 
 this is a link to [my portfolio](https://github.com/Anike03/http-5114-markdown-demo)
