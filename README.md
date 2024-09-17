@@ -23,9 +23,17 @@ to add an image use an `<img>` tag
 
 you can add multiline code by using threee tics and name of the coding language
 
-```javscript
-function test()
+```javascript
+function |test()
 {
     console.log("test");
 }
 ```
+
+## Tables
+
+|Language    | Rating |
+|--------    |------- |
+|HTML        |    2   |
+|JavaScript  |    3   |
+|CSS         |    4   |
