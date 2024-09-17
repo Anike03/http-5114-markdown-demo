@@ -14,5 +14,11 @@ this is a link to [my portfolio](https://github.com/Anike03/http-5114-markdown-d
 
 ## Images
 
-This is an image:
 ![BrickMMO 01](01.jpg)
+
+## Code
+
+We can put inline code by using a tic.
+to add an image use an `<img>` tag
+
+you can add multiline code by using threee tics and name of the coding language
