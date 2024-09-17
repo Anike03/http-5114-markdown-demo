@@ -23,7 +23,7 @@ this is a link to [my portfolio](https://github.com/Anike03/http-5114-markdown-d
 
 ## Images
 
-![BrickMMO 06](06.pnggit)
+![BrickMMO 06](06.png)
 
 ## Code
 
