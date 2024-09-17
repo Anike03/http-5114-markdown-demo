@@ -37,3 +37,8 @@ function |test()
 |HTML        |    2   |
 |JavaScript  |    3   |
 |CSS         |    4   |
+
+# Github Flavour
+
+>[!Note]
+>This is a note
